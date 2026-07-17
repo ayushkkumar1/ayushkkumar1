@@ -169,14 +169,8 @@ const ayush = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushkkumar1&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ayushkkumar1&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/> </p>
 ---
 
 # 📈 Contribution Graph
@@ -188,10 +182,8 @@ const ayush = {
 </div>
 
 ---
-
-# 🚀 Top Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ayushkkumar1&limit=5&theme=nord&combine_all_yearly_contributions=true"/>
+🚀 Top Contributed Repositories
+<img src="https://github-contributor-stats.vercel.app/api?username=ayushkkumar1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 ---
 
