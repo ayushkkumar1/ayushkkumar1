@@ -149,15 +149,13 @@ const ayush = {
 ---
 
 # 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushkkumar1&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushkkumar1&show_icons=true&theme=radical&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&border_color=00F5FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkkumar1&layout=compact&theme=nord&title_color=7dd3fc&border_color=7dd3fc"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkkumar1&layout=compact&theme=radical&title_color=00F5FF&text_color=FFFFFF&border_color=00F5FF"/>
 
 </div>
-
 <br>
 
 <div align="center">
@@ -175,8 +173,7 @@ const ayush = {
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkkumar1&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkkumar1&theme=react-dark&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFDD57&area=true&area_color=00F5FF&hide_border=true"/>
 
 </div>
 
@@ -229,5 +226,4 @@ const ayush = {
 ### If you like my work, don't forget to ⭐ my repositories.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,25:0072FF,50:6A5ACD,75:8A2BE2,100:C850C0&height=120&section=footer&animation=twinkling" width="100%"/>
